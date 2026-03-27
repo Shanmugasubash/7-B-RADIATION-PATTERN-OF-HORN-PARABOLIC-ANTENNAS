@@ -68,13 +68,13 @@ Beam current	 :
 
 **PARABOLICANTENNA**
 
-Beam voltage	:
+Beam voltage	: 235V
 
-Beam current	 :
+Beam current	 : 164mV
 
-Repeller voltage :
+Repeller voltage : 42V
 
-	V1 : 
+![514886636-5655a544-f779-49cf-a2bd-0a8dafa9b64b](https://github.com/user-attachments/assets/e9726481-1e48-41ff-9a74-3604b3c08b32)
 
 **RESULT:**
 
@@ -82,7 +82,6 @@ Thus the polar pattern and the gain of a waveguide horn antenna and parabolicant
 
 Beamwidth of horn antenna :
 
-Beamwidth of parabolic antenna:		
-
+Beamwidth of parabolic antenna:		 20°
 
 
